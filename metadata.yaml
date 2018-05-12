@@ -1,4 +1,8 @@
 _repo: William-Oughtred-A-great-Seventeenth-Century-Teacher-of-Mathematics_46815
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cajori, Florian
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '34987'
     url: http://www.gutenberg.org/2009/agents/34987
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46815#William-Oughtred-A-great-Seventeenth-Century-Teacher-of-Mathematics
 gutenberg_issued: '2014-09-09'
 gutenberg_type: Text
 identifiers:
